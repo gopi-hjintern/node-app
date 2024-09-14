@@ -1,1 +1,3 @@
-def call()="hello"
+def call(){
+  return "hello"
+}
