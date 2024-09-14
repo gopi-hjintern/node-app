@@ -1,3 +1,1 @@
-def call(){
-  echo "deploying"
-}
+def call()="hello"
